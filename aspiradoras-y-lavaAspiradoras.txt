@@ -1,0 +1,48 @@
+lick descarga de manuales 
+
+  https://filexchanger.kaercher.com/en/download/ic7knk7r9pvckmm9i5qlq32d7nup9hnh
+
+--------------------------------------------------------------------------------------------
+
+///////////////////// Fallas y mantenimiento de aspiradoras profesionales y lava aspiradoras ////////////
+
+  ASPIRADORAS 
+    DESARROLADOS PARA RECOLECTAR SUCIEDAD
+    usa turbina y motor
+    inicios 1959
+      //// Profesional////
+        existen diferentes tipos de aspiradoras
+        //HOME AND GARDEN//
+          dentro de casa : blanco
+          fuera de casa : amarillo
+            *  aspiradoras en seco
+            *  aspiradoras seco humedo de polvo y liquido (bbdl bbdl) basico 
+            *  aspiradoras a bateria bbdl1 
+            *  robot rcv 3 : barrido y fregado
+          lava-aspiradoras SE4
+            aplicacion y extraccion
+              no queda totalmente seco, tiene error en el catalogo en cuanto a la bomba (esta a 220v)
+                se debe hacer aclaracion de que se debe aclarar para proteccion de la bomba
+        //PROFESIONAL//
+          *seco
+            t 15/1 : silenciosa
+              los filtros siempre deben estar limpios
+            cv38/2 : con sepillos
+              para alfombras, las alfombras no deben ser altas
+          *seco y humedo
+            nt 70/2 :
+            nt 48/1 :
+            nt 30/1 : sirve para el sector de contruccion zona 22
+          *industrial
+        // refrigeracion
+
+          turbina bypas
+          refrigeracion simple  
+        // lava aspiradoras PUZZI
+          puzzi 4/30
+          puzzi 8/1 : 
+          puzzi 10/1 : hay que determinar que tipo de bomba tiene
+          puzzi 30/4
+          
+          
+          4.901-035.0 bacuometro o elemento de depresion (herramoienta)
